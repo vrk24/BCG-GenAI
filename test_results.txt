@@ -1,0 +1,8 @@
+You: What is the revenue for Apple?
+Bot: Apple's total revenue is 383.29B.
+You: Show me Tesla's net income.
+Bot: Tesla's net income has decreased by 19.4% over the last year.
+You: microsoft revenue
+Bot: Microsoft's total revenue is 211.92B.
+You: What is the weather like?
+Bot: Sorry, I can only provide information on revenue or net income for Apple, Microsoft, or Tesla.
