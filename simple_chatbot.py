@@ -1,4 +1,4 @@
-from data_store import financial_data
+from Task2.data_store import financial_data
 
 def simple_chatbot(user_input):
     user_input = user_input.lower()
